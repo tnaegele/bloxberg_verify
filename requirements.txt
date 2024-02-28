@@ -1,0 +1,3 @@
+lds_merkle_proof_2019==0.1.0
+PyLD==2.0.4
+web3==6.15.1
