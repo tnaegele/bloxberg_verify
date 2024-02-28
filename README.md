@@ -11,7 +11,7 @@ where json-filename points to the Bloxberg proof json which is attached to their
 pdfdetach -saveall <pdf-filename>
 ~~~
 
-Example output
+Example output using tests/bloxbergJSONCertificate
 ~~~
 Check that document hash is contained in normalised proof
  success ✓
